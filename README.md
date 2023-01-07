@@ -50,7 +50,7 @@
 + Phân loại Baive Bayes giả định rằng tác động của giá trị của một yếu tố dự báo - predictor - (x) trên một lớp nhất định (c) là độc lập với các giá trị của các yếu tố dự báo khác. Giả định này được gọi là lớp độc lập có điều kiện.
 + **Công thức:**
 
-$$\textrm{P(c|x)} = \frac{\textrm{P(x|c)*P(c)}}{\textrm{P(x}}$$
+$$\textrm{P(c|x)} = \frac{\textrm{P(x|c)*P(c)}}{\textrm{P(x)}}$$
 
 **Trong đó:**
 + P(c|x): Xác suất xảy ra (posterior probability) của một sự kiện ngẫu nhiên c khi biết sự kiện liên quan x đã xảy ra.
