@@ -1,4 +1,7 @@
 # Supervised Learning - Naive Bayes
+[**Chi tiết bài viết**](https://github.com/LeHongNgoc3820/09.Naive-Bayes/blob/main/Naive_Bayes.ipynb)
+
+**Dưới đây là tóm tắt lí thuyết**
 
 ### Nội dung:
 1. Giới thiệu
